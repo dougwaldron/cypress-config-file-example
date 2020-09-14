@@ -1,5 +1,5 @@
 devDependencies:
-  cypress: 5.0.0
+  cypress: 5.1.0
 lockfileVersion: 5.1
 packages:
   /@cypress/listr-verbose-renderer/0.4.1:
@@ -371,7 +371,7 @@ packages:
       node: '>= 8'
     resolution:
       integrity: sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w==
-  /cypress/5.0.0:
+  /cypress/5.1.0:
     dependencies:
       '@cypress/listr-verbose-renderer': 0.4.1
       '@cypress/request': 2.88.5
@@ -417,7 +417,7 @@ packages:
     hasBin: true
     requiresBuild: true
     resolution:
-      integrity: sha512-jhPd0PMO1dPSBNpx6pHVLkmnnaTfMy3wCoacHAKJ9LJG06y16zqUNSFri64N4BjuGe8y6mNMt8TdgKnmy9muCg==
+      integrity: sha512-craPRO+Viu4268s7eBvX5VJW8aBYcAQT+EwEccQSMY+eH1ZPwnxIgyDlmMWvxLVX9SkWxOlZbEycPyzanQScBQ==
   /dashdash/1.14.1:
     dependencies:
       assert-plus: 1.0.0
@@ -1428,4 +1428,4 @@ packages:
     resolution:
       integrity: sha1-x+sXyT4RLLEIb6bY5R+wZnt5pfk=
 specifiers:
-  cypress: ^5.0.0
+  cypress: ^5.1.0
